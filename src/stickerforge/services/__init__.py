@@ -1,0 +1,1 @@
+"""Services — diffusion, matting, packing, export. Side effects live here."""
