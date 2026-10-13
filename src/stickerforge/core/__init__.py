@@ -1,0 +1,1 @@
+"""Pure pipeline logic. No UI, no network, no filesystem side effects."""
