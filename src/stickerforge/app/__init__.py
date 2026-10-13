@@ -1,0 +1,1 @@
+"""Application layer: bootstrap, CLI, and the wxPython desktop shell."""
