@@ -1,0 +1,1 @@
+"""Input handlers — one per source type (prompt, photo, reference art)."""
